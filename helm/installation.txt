@@ -21,3 +21,5 @@ helm install stable/nginx-ingress --name nginx-ingress
 
 helm repo list
 
+helm delete nginx-ingress
+
