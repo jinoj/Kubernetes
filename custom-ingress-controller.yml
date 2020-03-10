@@ -37,6 +37,7 @@ data:
   body-size: "64m"
   server-name-hash-bucket-size: "256"
   server-tokens: "false"
+  ssl-redirect: "true"
 
 # To Create Secret for ingress-controller SSL scrtificate keys and files
 ---
